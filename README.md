@@ -1,5 +1,6 @@
 # joi_input_validation
 Joi is a very popular user input validation library on npm. Weekly Downloads are over 2 millions. It is managed by Hapi.js team. Joi allows you to create blueprints or schemas for JavaScript objects to ensure validation of key information.
+[MORE](https://github.com/hapijs/joi/blob/master/API.md)
 ## Installation
 ```
   $ npm i joi
